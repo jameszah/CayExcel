@@ -9,3 +9,6 @@ Aug 4, 2018 - v2
  
 Aug 8, 2018 - v3
 - add queury for RAW data, rather than the 1 Minute summaries
+
+Aug 26, 2018
+- bugfix to dropdown step9
