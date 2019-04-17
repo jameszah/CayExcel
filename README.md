@@ -12,3 +12,7 @@ Aug 8, 2018 - v3
 
 Aug 26, 2018
 - bugfix to dropdown step9
+
+v5 Apr 16, 2019 
+- change token query, change v2 query back to v1.1 query (refresh and Megaquery not working)
+- set datapoint not tested, probably not working
