@@ -1,6 +1,8 @@
 # CayExcel
 CayExcel - REST API Tutorial / Demo using Excel VBA for mydevices.com
 
+CayExcel5.xlsm is the current version, with new authentication system.
+
 http://community.mydevices.com/t/cayexcel-rest-api-tutorial-demo-using-excel-vba/10450?u=jameszahary
 
 Aug 4, 2018 - v2
