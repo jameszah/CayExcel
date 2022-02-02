@@ -1,6 +1,8 @@
 # CayExcel
 CayExcel - REST API Tutorial / Demo using Excel VBA for mydevices.com
 
+Jan 2022 - They have discontinued this api - if you still have an old account, it will work, but you cannot get a new account.
+
 CayExcel6.xlsm is the current version, with mods for the new cayenne REST API servers and syntax.
 
 http://community.mydevices.com/t/cayexcel-rest-api-tutorial-demo-using-excel-vba/10450?u=jameszahary
